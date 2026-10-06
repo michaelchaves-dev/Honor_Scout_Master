@@ -149,3 +149,8 @@ See [SCORING_SPEC.md](./SCORING_SPEC.md) for the operational scoring specificati
 **Version:** v0.1  
 **State:** Initial scoring constitution  
 **Next:** Begin multi-agent trial runs, collect evidence, and revise only through documented version changes.
+
+<!-- SAS-IP-FOOTER-v1 -->
+---
+**Subtract Architect Studios™**  
+Copyright © 2026 Michael F. Chaves. All rights reserved in original Subtract Architect Studios materials except as expressly licensed. See [IP_NOTICE.md](./IP_NOTICE.md). Existing open-source and third-party licenses remain controlling for materials they cover.
